@@ -1,5 +1,7 @@
 # Salesforce Car Rental CRM
 
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/d6c30c0f-770b-4702-949b-2958712ce26e" />
+
 This project is a Salesforce-based Car Rental CRM built using declarative tools.
 
 The system manages cars and rental bookings and automates the complete rental approval workflow.
